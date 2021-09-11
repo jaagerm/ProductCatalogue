@@ -25,7 +25,7 @@ The demo setup consists of three applications:
 - run "dotnet run" within the **DataService** root folder
 
 
-- Rename the Excel sheer as "Data"
+- Rename the Excel sheet as "Data"
 - Add column headers into the excel sheet starting from A1 as follows: ID, Name, Producer, Quantity
 - Add data into the following row starting from A1, for example such: 1, Computer, Apple, 12
 - You can add as many rows of data as you want
