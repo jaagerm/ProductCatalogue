@@ -1,4 +1,4 @@
-# ProductCatalgoue
+# ProductCatalogue
 This application provides a demo solution for a usecase, where employees need to update an Excel based list of products in a way, that these changes would be visible for other users on a web page.
 The demo setup consists of three applications:
 - **ExcelAddin** - a React application for an AddIn that runs on Excel. It's purpose is to read Product data from an excel sheet on a button press and deliver that data through an API post request to another service. Addins in Excel are running on the Internet Explorer or Edge browser engine. More info about that here: https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-ins
