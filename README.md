@@ -5,7 +5,7 @@ The demo setup consists of three applications:
 - **DataService** - a .NET Core service which provides an API for receiving Product data.
 - **Web** - an Angular based application which periodically polls the **DataService** for product information.
 
-Follow the video for a walkthrough of how the application works:
+**Follow the video for a walkthrough of how the application works:**
 [![Watch the video](https://i.ibb.co/fpZ9HTJ/Product-Catalogue.png)](https://www.youtube.com/watch?v=oKeQjzlPkvo)
 
 ## Requirements for running this demo
